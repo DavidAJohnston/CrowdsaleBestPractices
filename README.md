@@ -69,7 +69,7 @@ Its worth making disclosures as part of your crowdsale in order to avoid confusi
 
 *1. Friendly Information:* 
 
-The view expressed in these statements and websites (while intended as neutral and informational), should be taken as friendly to the project and its success given it was prepared by those close to the projects development.
+The views expressed in these statements and websites (while intended as neutral and informational), should be taken as friendly to the project and its success given it was prepared by those close to the projects development.
 
 *2. This Is Not Stock or Equity*
 
