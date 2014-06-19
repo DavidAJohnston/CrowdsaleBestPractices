@@ -60,3 +60,20 @@ Secondly, for example with SWARM if you participated in their early part of thei
  
 It is worth noting that neither the SWARM team or the API Network team expect to collect the maximum number of bitcoins by selling out all of their tokens (though it is possible if demand has been radically underestimated). Instead, both project have set a range of price points and are leaving it up to the market to decide the proper price of SWARM and API Coins (XAP). If the market decides these projects are highly valued, than the price of the coins will reach a higher level during the crowdsale. Conversely, if the market decides that these projects are not as highly valued, than the price of the coins will not rise as high during the crowdsale. Either way the pricing of these tokens is for the market to determine. 
 
+Specific Best Practices and Disclosures
+======================
+
+**Disclosures**
+Its worth making disclosures as part of your crowdsale in order to avoid confusion on the part of new users of these technologies or those that might be unfarmilar with crowdsales and what they are buying.
+
+1. Friendly Information: 
+The view expressed in these statements and websites (while intended as neutral and informational), should be taken as friendly to the project and its success given it was prepared by those close to the projects development.
+
+2. This Is Not Stock or Equity
+Participation in the crowdsale will not provide you with a "security" or "equity" stake in this project. The digital token known as "XYZ" is only useful for accessing the API Network software after its development is complete.
+
+3. No Refunds
+No refunds will be made to purchasers of token XYZ, should they change their mind at a later time, as the creation of the XYZ tokens is locked in. Of course, once the purchaser receives his or her tokens after the crowdsale, they are free to send or sell them to anyone of their choice.
+
+4. If You Send BTC From Coinbase or Another Wallet You Don't Have The Private Key Then You Can't Claim Your XYZ Coin
+If you send the crowdsale address BTC from a wallet that you do not control the private key for (example Coinbase), then you will not be able to claim the XYZ Coins you purchased and the seller will be unable to generate new ones for you.
