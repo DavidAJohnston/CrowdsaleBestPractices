@@ -82,3 +82,7 @@ No refunds will be made to purchasers of token XYZ, should they change their min
 *4. If You Send BTC From Coinbase or Any Wallet You Don't Have The Private Key Then You Can't Claim Your XYZ Coin*
 
 If you send the crowdsale address BTC from a wallet that you do not control the private key for (example Coinbase), then you will not be able to claim the XYZ Coins you purchased and the seller will be unable to generate new ones for you.
+
+*5. Low Liqudity / Ability to Sell These Digital Tokens Will Be Limited*
+
+If you purchasing token XYZ in order to hold it as "a store of wealth or value" please understand that this project is in its early days of development and that the market for these tokens will be very shallow and thus make it will be harder to buy and sell these tokens without effecting the price on the market.
