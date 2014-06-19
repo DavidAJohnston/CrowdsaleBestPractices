@@ -64,6 +64,7 @@ Specific Best Practices and Disclosures
 ======================
 
 **Disclosures**
+
 Its worth making disclosures as part of your crowdsale in order to avoid confusion on the part of new users of these technologies or those that might be unfarmilar with crowdsales and what they are buying.
 
 1. Friendly Information: 
