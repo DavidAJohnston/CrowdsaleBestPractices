@@ -79,6 +79,6 @@ Participation in the crowdsale will not provide you with a "security" or "equity
 
 No refunds will be made to purchasers of token XYZ, should they change their mind at a later time, as the creation of the XYZ tokens is locked in. Of course, once the purchaser receives his or her tokens after the crowdsale, they are free to send or sell them to anyone of their choice.
 
-4. If You Send BTC From Coinbase or Another Wallet You Don't Have The Private Key Then You Can't Claim Your XYZ Coin
+4. If You Send BTC From Coinbase or Any Wallet You Don't Have The Private Key Then You Can't Claim Your XYZ Coin
 
 If you send the crowdsale address BTC from a wallet that you do not control the private key for (example Coinbase), then you will not be able to claim the XYZ Coins you purchased and the seller will be unable to generate new ones for you.
