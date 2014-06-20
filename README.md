@@ -5,7 +5,7 @@ Crowdsale Best Practices "Let The Market Decide"
  
 TLDR:
 ======================
-Future crowdsales are adopting the state-of-the-art characteristics of rewarding multiple demographics, a 30 day time window, capped numbers of tokens, and single currency pricing, but are also seeking to improve on this model by letting the market decide the price of their application’s digital tokens during a crowdsale using a sales volume based pricing model.
+Planned crowdsales are adopting the best practices of rewarding multiple demographics, a 30 day time window, capped numbers of tokens, and single currency pricing, but are also seeking to improve on this model by letting the market decide the price of their application’s digital tokens during a crowdsale using a sales volume based pricing model.
  
 Brief History of Crowdsales
 ======================
@@ -62,6 +62,22 @@ It is worth noting that neither the SWARM team or the API Network team expect to
 
 Specific Best Practices and Disclosures
 ======================
+
+**Specific Best Practices**
+
+*1. Developing an in depth whitepaper and specification*
+
+The whitepaper since the time of Satoshi's bitcoin whitepaper in 2008 has been the way in which a new decentralized application is proposed to the community. Preparing this document to be as in depth, technical and peer reviewed as possible is a good way in which to the lay the ground work a new project. 
+
+*2. Setting Clear Expectations / Token Generation Guidelines*
+
+Bitcoin developers did an excellent job of enforcing and re-enforcing the exspectations of its users by stricly keeping to the 21,000,000 token limit and the expected rate of distribution. With any new open source project that has a token assoicated the developers will have to develop this same trust with the community. This should preferably be done through automating with cryptographic mechanisms the distribution of the tokens as much as is possible. 
+
+Clear expectations should be articulated during the crowdsale by clearly listing common disclosures about, friendly information, the nature of a token being different than a stock or equity, no refunds, the mechanism for claiming their tokens, and the low liquidity most tokens experience during their early stages.
+
+*3. Developing a wiki where the community can make contributions*
+
+Developing a corpus of knowledge that the community can contribute to is critical for the long term development of any open source project and a decentralized application is no different. 
 
 **Disclosures**
 
