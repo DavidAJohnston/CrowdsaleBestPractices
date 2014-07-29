@@ -82,10 +82,10 @@ Developing a corpus of knowledge that the community can contribute to is critica
 *4. Terms and Conditions Document Outline the Details of the Sale That The User Must Agree To*
 
 _________________________________
-Example from Ethereum.org
+**Example from Ethereum.org**
 
 Terms and Conditions of the Ethereum Genesis Sale
-ethereum.org
+======================
 
 The following Terms and Conditions (“Terms”) govern the sale of the cryptographic fuel -- Ether (“ETH”) -- that is required to run distributed applications on the Ethereum open source software platform (“Ethereum Platform”) to purchasers of ETH (“Purchasers” collectively, and “Purchaser” individually).
 
