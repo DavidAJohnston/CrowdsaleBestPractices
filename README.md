@@ -97,13 +97,13 @@ As described further below, distributed applications on the Ethereum Platform re
 
 This document describes the Genesis Sale in which the fuel token (Ether or ETH) is sold, as well as the perpetual coordinated spontaneous creation of the “cryptofuel.” Parties may be interested in purchasing ETH (the cryptofuel) in the Genesis Sale to build and power business applications, to pay for coming distributed application services on the Ethereum Platform, to pay for other tokens that may be created on the Ethereum Platform for various applications, or to support the development of the Ethereum Platform. Individuals, businesses, and other organizations should carefully weigh the risks, costs, and benefits of acquiring the cryptofuel early in the Genesis Sale versus waiting to purchase ETH on open, third-party exchanges once the system is operational and when they or their businesses actually require the cryptofuel to operate.
 
-IMPORTANT
+**IMPORTANT**
 
 Ownership of ETH carries no rights express or implied. Purchases of ETH are non-refundable. Purchasers should have no expectation of influence over governance of the platform.
 
 By participating in the sale of ETH, you expressly acknowledge and represent that you have carefully reviewed the Terms, as well as the Ether Product Purchase Agreement and fully understand the risks, costs, and benefits of purchasing ETH and agree to be bound by these Terms. As set forth further below, you further represent and warrant that, to the extent permitted by law, you are authorized to purchase ETH in your relevant jurisdiction, are of a legal age to be bound by these Terms, and will not hold EthSuisse, its parent and affiliates, and the officers, directors, agents, joint ventures, employees and suppliers of EthSuisse or our parent or affiliates, now or in the future and any other member of the Ethereum Team (collectively the “EthSuisse Parties”) liable for any losses or any special, incidental, or consequential damages arising out of, or in any way connected to the sale of ETH.
 
-WARNING: DO NOT PURCHASE ETH IF YOU ARE NOT AN EXPERT IN DEALING WITH CRYPTOGRAPHIC TOKENS AND BLOCKCHAIN-BASED SOFTWARE SYSTEMS
+**WARNING: DO NOT PURCHASE ETH IF YOU ARE NOT AN EXPERT IN DEALING WITH CRYPTOGRAPHIC TOKENS AND BLOCKCHAIN-BASED SOFTWARE SYSTEMS**
 
 Purchases of ETH, the Ethereum Platform’s cryptofuel, should be undertaken only by individuals, entities, or companies that have significant experience with, and understanding of, the usage and intricacies of cryptographic tokens, like bitcoin (BTC), and blockchain-based software systems.
 
@@ -111,25 +111,25 @@ While the Ethereum Team will provide general guidelines for user usage and stora
 
 If you do not have such experience or expertise, then you should not purchase ETH or participate in the pre-sale of ETH.
 
-WARNING: CRYPTOGRAPHIC TOKENS OF VALUE MAY EXPERIENCE EXTREME VOLATILITY IN PRICING
+**WARNING: CRYPTOGRAPHIC TOKENS OF VALUE MAY EXPERIENCE EXTREME VOLATILITY IN PRICING**
 
 Cryptographic tokens that possess value in public markets, such as BTC, have demonstrated extreme fluctuations in price over short periods of time on a regular basis. A Purchaser of ETH should be prepared to expect similar fluctuations, both down and up, in the price of ETH denominated in BTC or United States dollars (“USD”) or other fiat money of other jurisdictions. Such fluctuations are due to market forces and represent changes in the balance of supply and demand. EthSuisse cannot and does not guarantee market liquidity for ETH and therefore there may be periods of time in which ETH is difficult to buy. Additionally, due to different regulatory dictates in different jurisdictions and the inability of citizens of certain countries to open accounts at exchanges located anywhere in the world, the liquidity of ETH may be markedly different in different countries and this would likely be reflected in significant price discrepancies.
 
 By purchasing ETH, you expressly acknowledge and represent that you fully understand that ETH may experience volatility in pricing and will not seek to hold any of the EthSuisse Parties liable for any losses or any special, incidental, or consequential damages arising from, or in any way connected to the sale of ETH.
 
-WARNING: THE PURCHASE OF ETH HAS A NUMBER OF RISKS
+**WARNING: THE PURCHASE OF ETH HAS A NUMBER OF RISKS**
 
 The purchase of ETH carries with it a number of risks. Prior to purchasing ETH, you should carefully consider the risks listed below and, to the extent necessary, consult an appropriate lawyer, accountant, or tax professional. If any of the following risks are unacceptable to you, you should not purchase ETH. By purchasing ETH, and to the extent permitted by law, you are agreeing not to hold any of the EthSuisse Parties liable for any losses or any special, incidental, or consequential damages arising from, or in any way connected, to the sale of ETH, including losses associated with the risks set forth below.
 
-1 What is Ethereum, the Platform?
+**1 What is Ethereum, the Platform?**
 
 The Ethereum Platform combines a peer-to-peer networking platform with a next-generation blockchain architecture to deliver a decentralized consensus-based, full-stack platform for developing, offering and using distributed application services. A consumer-facing application, called the EtherBrowser, integrates the front and back ends to create an environment in which developers of varying degrees of sophistication can relatively easily and relatively rapidly build secure, scalable and interoperable decentralized applications.
 
-2 Overview of Genesis Sale of Ether
+**2 Overview of Genesis Sale of Ether**
 
 The Ethereum Platform requires, for proper operation, and comprehensive utilization, a cryptographic fuel called Ether (“ETH”). EthSuisse will produce and market a quantity of ETH in a pre-sale event called the Genesis Sale, to be conducted on its web site at https://www.ethereum.org (“the Genesis Sale”). Purchasers in the Genesis Sale will acquire ETH in exchange for BTC at predefined sale prices over a period of forty-two (42) days. Purchasers of ETH in the Genesis Sale will be awarded cryptographic receipts in the form of a downloaded “wallet” that will enable them to claim their purchase once the product has been developed and is ready for delivery. All ETH pre-sold in this manner will be delivered to Purchasers in the Ethereum Platform’s Genesis Block -- the initial block of the the Ethereum Platform’s blockchain which constitutes the inception of operation of the system -- which is expected to be created during the winter of 2014-2015, although there are no guarantees that this will occur according to such a time-frame or at all. Purchasers may claim their ETH at any point after such time by taking control of their assigned Ethereum account which holds the ETH.
 
-3 Creation and Sale of ETH
+**3 Creation and Sale of ETH**
 
 ETH will be created through two processes: (1) a pre-mining process, at the instant the system becomes operational, that will create and place a sum of ETH in the Genesis Block of the blockchain used for the Ethereum Platform, and (2) the ongoing mining process which secures the Ethereum blockchain. The Genesis Sale is directly related only to the first process.
 
@@ -142,12 +142,14 @@ In addition to the Genesis Sale Quantity of ETH and the second pool of ETH, the 
 Anticipated ETH distributions at different points in time are presented in graphical form below. These projections are only intended to be illustrative and actual percentages may turn out to be different than depicted herein.
 
 anticipated ether distribution
-4 Growth Rate of ETH
+
+**4 Growth Rate of ETH**
 
 Once the Ethereum blockchain is operational, new ETH is expected to be spontaneously created at a constant annual linear rate exclusively via the mining process pursuant to a target annual rate. The annual target rate of new ETH creation will be set to 26% of the Genesis Sale Quantity of ETH. Although EthSuisse does not intend to change the annual rate of new creation at this time, for technical reasons EthSuisse may need to change the annual rate of new creation to a value lower than 26% to account for changes to the Ethereum mining algorithm or to address other issues that may arise. There is no guarantee that this percentage will be accurate or that this rate will continue at the same level.
 
 ether supply
-5 Timing of Sale
+
+**5 Timing of Sale**
 
 The Genesis Sale will begin at 22:00 GMT on Tuesday July 22, 2014.
 
@@ -159,7 +161,7 @@ The Genesis Sale will run for 42 days and will end at 21:59:59 GMT on September 
 
 EthSuisse reserves the right to change the date when the Genesis Sale will begin and further reserves the right to extend the sale duration for any reason, including the unavailability of the website https://www.ethereum.org or other unforeseen security or procedural issues. Though it does not currently anticipate doing so, EthSuisse also reserves the right to shorten the sale duration for any reason.
 
-6 Pricing and Initial Discount on Price of Ether
+**6 Pricing and Initial Discount on Price of Ether**
 
 The baseline retail price of ETH will be set by EthSuisse at 0.0007479 BTC (the “Retail Price”). A discount will be offered in the first 36 days of the Genesis Sale. At the time of the start of the sale, the Retail Price of one ETH is approximately 0.42 CHF (Swiss Francs).
 
@@ -174,7 +176,7 @@ EthSuisse will not place a cap on the number of ETH that can be purchased by the
 
 EthSuisse reserves the right to change the duration of any affected discounting period for any reason, including the unavailability of the website https://www.ethereum.org or other unforeseen procedural or security issues.
 
-7 Disclosure of Purchases
+**7 Disclosure of Purchases**
 
 In the spirit of openness, and to enable ETH Purchasers to have as much information as possible to guide their decision making process, EthSuisse has developed an ETH purchase mechanism that enables purchases to be tracked on the Bitcoin blockchain.
 
@@ -182,27 +184,27 @@ Each Purchaser has the option to calculate the total number of ETH sold to enabl
 
 36PrZ1KHYMpqSyAQXSG8VwbUiq2EogxLo2
 
-8 Purchase of Ether from the Ether Store on the Ethereum.org Website
+**8 Purchase of Ether from the Ether Store on the Ethereum.org Website**
 
 EthSuisse will maintain a store interface, which can be used to purchase ETH. The store interface will be available on the Ethereum website (https://www.ethereum.org). Instructions for purchasing ETH with BTC using the store interface will be embedded and available for review on the Ethereum website during the duration of the Genesis Sale.
 
 Failure to follow these instructions may limit, delay, or prevent a Purchaser from obtaining ETH. Any questions about these instructions should be directed to helpdesk@ethereum.org.
 
-9 Obligation to Determine If Purchaser Can Purchase ETH in Purchaser’s Jurisdiction
+**9 Obligation to Determine If Purchaser Can Purchase ETH in Purchaser’s Jurisdiction**
 
 The Genesis Sale constitutes the sale of a legal software product under Swiss law. This product sale is conducted by EthSuisse, a Swiss company, operating under Swiss law. It is the responsibility of each potential Purchaser of ETH to determine if the Purchaser can legally purchase ETH in the Purchaser’s jurisdiction.
 
-10 Acceptance of Terms and Conditions of the ETH Sale
+**10 Acceptance of Terms and Conditions of the ETH Sale**
 
 As a first step in the purchase process, EthSuisse will present the Purchaser with these Terms, and associated documents, along with a checkbox. By clicking the checkbox, the Purchaser: (i) consents and agrees to the Terms and the Ether Product Purchase Agreement; (ii) represents and warrants that the Purchaser is legally permitted to purchase ETH in the Purchaser’s jurisdiction and is legally permitted to receive products of Swiss origin; (iii) represents and warrants that the Purchaser is of a sufficient age to legally purchase ETH or has received permission from a legal guardian who has reviewed and agreed to these Terms; (iv) represents and warrants that the the Purchaser will take sole responsibility for any restrictions and risks associated with the purchase of ETH as set forth below; (v) represents and warrants that Purchaser is not exchanging bitcoin (BTC) for ETH for the purpose of speculative investment; (vi) represents and warrants that the Purchaser is acquiring ETH for the use of decentralized application services or the purchase of tokens specific to forthcoming decentralized applications on the Ethereum Platform, or to facilitate development, testing, deployment and operation of decentralized applications on the Ethereum Platform; and (vii) represents and warrants that the Purchaser has an understanding of the usage and intricacies of cryptographic tokens, like BTC, and blockchain-based software systems.
 
-11 Independent Confirmation of Purchases
+**11 Independent Confirmation of Purchases**
 
 During the purchase process on the https://www.ethereum.org website, EthSuisse will provide Purchasers with a unique intermediary BTC address. Using this address, Purchasers can track and confirm that the Purchaser’s BTC has been received at that address and has been subsequently and automatically sent to the genesis address. Additionally, EthSuisse will lodge a small coded transaction into the Bitcoin blockchain to serve as an additional purchase confirmation.
 
 Knowledge of the unique intermediary BTC address does not constitute a purchase receipt or indicate in any way that any party possessing such knowledge has rights to or ownership of the purchased ETH.
 
-12 Purchaser’s Loss of the Purchase Password Will Cause the Loss of the Purchased ETH
+**12 Purchaser’s Loss of the Purchase Password Will Cause the Loss of the Purchased ETH**
 
 As part of the purchase process, and in order to purchase ETH, the Purchaser will need to provide a password (the “Purchase Password”). The Purchase Password will be used to load the unique address and private key to the Purchaser’s Ethereum account (which will store the purchased ETH) into a wallet in the EtherBrowser when the system is operational.
 
@@ -210,7 +212,7 @@ Purchaser must keep the Purchase Password safe and not share it in any way or wi
 
 By purchasing ETH, and to the extent permitted by applicable law, the Purchaser agrees not to hold any of the EthSuisse Parties liable for any losses or any special, incidental, or consequential damages arising out of, or in any way connected to, Purchaser’s failure to properly secure and keep private the Purchase Password.
 
-13 Receipt of ETH and the Purchase Email
+**13 Receipt of ETH and the Purchase Email**
 
 As part of the purchase process, and in order to purchase ETH, a Purchaser will need to provide an email address (the “Purchase Email”). The Purchase Email will be used to email the Purchaser a wallet file containing a unique address and private key to the Purchaser’s Ethereum account, which will store the purchased ETH.
 
@@ -219,7 +221,8 @@ Upon receipt of a Purchase Email, the Purchaser agrees to save the Ethereum wall
 By purchasing ETH, and to the extent permitted by applicable law, the Purchaser agrees not to hold any of the EthSuisse Parties liable for any losses or any special, incidental, or consequential damages arising out of, or in any way connected to, Purchaser’s failure to properly secure the Ethereum wallet file or delete the Purchase Email.
 
 wallet
-14 Purchaser’s Loss of the Purchase Wallet Will Cause the Loss of the Purchased ETH
+
+**14 Purchaser’s Loss of the Purchase Wallet Will Cause the Loss of the Purchased ETH**
 
 As part of the purchase process, the Purchaser will need to receive and store a Purchase Wallet. The Purchaser must download the Purchase Wallet in the web browser during the purchase process and/or download or extract the wallet from the Purchase Email. The Purchase Wallet will be used to load the unique address and private key to the Purchaser’s Ethereum account (which will store the purchased ETH) into a wallet in the EtherBrowser when the system is operational.
 
@@ -227,7 +230,7 @@ Purchaser must keep the Purchase Wallet safe and not share it in any way or with
 
 By purchasing ETH, and to the extent permitted by applicable law, the Purchaser agrees not to hold any of the EthSuisse Parties liable for any losses or any special, incidental, or consequential damages arising out of, or in any way connected to, Purchaser’s failure to properly store, secure and keep private the Purchase Wallet.
 
-15 Ether Will Only Be Available For Sale on the Ethereum Website
+**15 Ether Will Only Be Available For Sale on the Ethereum Website**
 
 EthSuisse will only sell ETH through the Ethereum website, available at https://www.ethereum.org. To the extent that any third-party website or service offers ETH for sale during the Genesis Sale or facilitates the sale or transfer of ETH in any way during the Genesis Sale or at any time up to the release of the Genesis Block, such third-party websites or services are not sanctioned by EthSuisse or its parents and affiliates and have no relationship in any way with the EthSuisse Parties. As a result, EthSuisse prohibits the use of these third-party websites or services for the purchase of ETH prior to the end of the Genesis Sale.
 
@@ -240,7 +243,7 @@ By purchasing ETH, and to the extent permitted by applicable law, the Purchaser 
 
 The only official and authorized ETH sale website URL is https://www.ethereum.org
 
-16 Limitations on the Purchase of Ether
+**16 Limitations on the Purchase of Ether**
 
 In the interest of fairness and inclusiveness, EthSuisse will apply certain limitations on the sale of ETH.
 
@@ -250,23 +253,23 @@ Any individual, group, corporation, company, entity, or groups of legally connec
 
 When using the Genesis Sale web site for purchasing ETH, each Purchaser agrees that, to the best of the Purchaser’s knowledge, and after all necessary inquiries, the Purchaser will not cause any entity, person, group, company, corporation, or group of associated entities to control more than 2,000,000 ETH.
 
-17 Fraudulent Attempts to Double Spend BTC
+**17 Fraudulent Attempts to Double Spend BTC**
 
 EthSuisse will monitor all potential transactions for fraudulent attempts to double spend BTC. Any detected double spend of BTC will result in no ETH being generated in the Genesis Block for the associated wallet address.
 
-18 EthSuisse Will Not Purchase ETH During Genesis Sale and Until the Creation of the Genesis Block
+**18 EthSuisse Will Not Purchase ETH During Genesis Sale and Until the Creation of the Genesis Block**
 
 EthSuisse warrants that it will not purchase ETH in its own sale. Furthermore EthSuisse warrants that it will not purchase ETH from any third party, or acquire ETH in any manner, or acquire future control of ETH, during the period of the Genesis Sale and until the creation of the Genesis Block.
 
-19 Certain Risks Associated with the Purchase of Ether
+**19 Certain Risks Associated with the Purchase of Ether**
 
 The purchase of ETH carries with it significant risk. Prior to purchasing ETH, the Purchaser should carefully consider the below risks and, to the extent necessary, consult a lawyer, accountant, and/or tax professionals prior to determining whether to purchase ETH.
 
-19.1 Risk of Dissolution of The Ethereum Project Due To a Diminishment in the Value of the BTC Sale Revenue
+**19.1 Risk of Dissolution of The Ethereum Project Due To a Diminishment in the Value of the BTC Sale Revenue**
 
 All Purchasers are paying BTC to purchase ETH. In the past few months the price of BTC in United States dollars has been relatively stable. However, despite recent price stability, it is possible that the value of BTC will drop significantly in the future, depriving EthSuisse of sufficient resources to continue to operate. In order to guard against this risk, EthSuisse intends to periodically convert proceeds from the sale of ETH into fiat currencies instead of BTC.
 
-19.2 Risk of Losing Access to Ether Due to Loss of a Wallet File or Password
+**19.2 Risk of Losing Access to Ether Due to Loss of a Wallet File or Password**
 
 As noted above, ETH will be stored in a wallet, which can only be accessed with a password selected by the Purchaser. If a Purchaser of ETH does not maintain an accurate record of the Purchaser’s password or losses the wallet file sent by EthSuisse in the Purchase Email, this will lead to the loss of ETH.
 
@@ -274,94 +277,95 @@ As a result, Purchasers must safely store their password and the wallet file sen
 
 In order to access one’s ETH, both the wallet file provided by the sale application and the password that the Purchaser entered are required; loss of either, or leakage/theft of both, will lead to the loss of a Purchaser’s ETH.
 
-19.3 Risk of Unauthorized Access to a Downloaded Wallet
+**19.3 Risk of Unauthorized Access to a Downloaded Wallet**
 
 Any third party that gains access to the Purchaser’s Purchase Email will be able to download the wallet file and potentially access the wallet by deciphering or cracking the Purchaser’s password. To guard against any improper access to the wallet, the Purchaser should: (i) select a highly secure Purchase Password for the Purchaser’s ETH wallet; and (ii) promptly delete the Purchase Email shortly after receipt, as expressly required by these Terms.
 
 Purchaser must take care not to respond to any inquiry regarding their purchase of ETH, including but not limited to, email requests purportedly coming from the ethereum.org or similar looking domain.
 
-19.4 Risk of Regulatory Action in One or More Jurisdictions
+**19.4 Risk of Regulatory Action in One or More Jurisdictions**
 
 Cryptocurrencies have been the subject of regulatory scrutiny by various regulatory bodies around the globe. The Ethereum Platform and ETH could be impacted by one or more regulatory inquiries or regulatory action, which could impede or limit the ability of EthSuisse to continue to develop the Ethereum Platform.
 
-19.5 Risk of Alternative, Unofficial Ethereum Networks
+**19.5 Risk of Alternative, Unofficial Ethereum Networks**
 
 Following the Genesis Sale, and the development of the initial version of the Ethereum Protocol and User Clients (i.e., version 1.0), it is possible that alternative unofficial Ethereum-based networks could be established, which utilize the same open source source code and open source protocol underlying The Ethereum Platform. The official Ethereum network may compete with these alternative, unofficial Ethereum-based networks, which could potentially negatively impact the Ethereum Platform and ETH. EthSuisse may gain a competitive advantage being the party that developed the Ethereum Platform, but such advantages are far from absolute.
 
-19.6 Risk of Insufficient Interest in the Ethereum Platform or Distributed Applications
+**19.6 Risk of Insufficient Interest in the Ethereum Platform or Distributed Applications**
 
 It is possible that the Ethereum Platform will not be used by a large number of external businesses, individuals, and other organizations and that there will be limited public interest in the creation and development of distributed applications. Such a lack of interest could impact the development of the Ethereum Platform and potential uses of ETH. EthSuisse has contracted with developers to help build the Ethereum Platform and is working with other third-party developers around the world to create an interest in the Ethereum Platform. However, it cannot predict the success of its own development efforts or the efforts of other third parties.
 
-19.7 Risk Associated With the Development of Other Platforms For Decentralized Applications
+**19.7 Risk Associated With the Development of Other Platforms For Decentralized Applications**
 
 EthSuisse is one of several organizations, companies, and groups, attempting to build a platform which would facilitate the creation and deployment of decentralized applications. It is possible that different technical paradigms than the ones being used in the current Ethereum Platform implementation are optimal.
 
 While EthSuisse anticipates being a leader in the development of this technology, competition from these alternative platforms for decentralized applications may impact success of the Ethereum Project and the ability of EthSuisse to operate and sell ETH in the future.
 
-19.8 Risk that the Ethereum Platform, As Developed, Will Not Meet the Expectations of Purchaser
+**19.8 Risk that the Ethereum Platform, As Developed, Will Not Meet the Expectations of Purchaser**
 
 The Purchaser recognizes that the Ethereum Platform is presently under development and may undergo significant changes before release. Purchaser acknowledges that any expectations regarding the form and functionality of the Ethereum Platform held by the Purchaser may not be met upon release of the Ethereum Platform, for any number of reasons including a change in the design and implementation plans and execution of the implementation of the Ethereum Platform.
 
-19.9 Risk that the Ethereum Platform May Never be Completed or Released
+**19.9 Risk that the Ethereum Platform May Never be Completed or Released**
 
 Purchaser understands, that while the Ethereum Team will make reasonable efforts to complete the Ethereum software, it is possible that an official completed version of the Ethereum Platform may not be released and there may never be an operational Ethereum Platform.
 
-19.10 Risk of Theft
+**19.10 Risk of Theft**
 
 Hackers or other groups or organizations may attempt to steal the BTC revenue from the Genesis Sale, thus potentially impacting the ability of EthSuisse to develop the Ethereum Platform and operate EthSuisse. To account for this risk, EthSuisse has and will continue to implement comprehensive security precautions to safeguard the BTC obtained from the sale of ETH.
 
 Multi-factor security measures will be taken to protect BTC and ETH including physical elements, Shamir’s Secret Sharing Algorithm, multisignature keys, BIP 32, anti-spear-phishing procedures, splitting of funds, hot/cold wallet partitioning and diversification. Moreover, regular security audits of hot and cold wallets will be conducted by internal and external teams.
 
-19.11 Risk of Security Weaknesses in the Ethereum Platform Core Infrastructure Software
+**19.11 Risk of Security Weaknesses in the Ethereum Platform Core Infrastructure Software**
 
 The Ethereum Platform rests on open-source software, and there is a risk that the Ethereum Team, or other third parties not directly affiliated with the EthSuisse Parties, may introduce weaknesses or bugs into the core infrastructural elements of the Ethereum Platform causing the system to lose ETH stored in one or more Purchaser accounts or other accounts or lose sums of other valued tokens issued on the Ethereum Platform.
 
 EthSuisse has taken steps to build, maintain, and secure the infrastructure of the Ethereum Platform, and will continue to do so after the Genesis Sale. For example, EthSuisse intends to hire external consultants on a periodic basis to assess and audit the security of the Ethereum Platform and will work with cryptography and security experts to develop and employ best practices to audit the Platform.
 
-19.12 Risk of Weaknesses or Exploitable Breakthroughs in the Field of Cryptography
+**19.12 Risk of Weaknesses or Exploitable Breakthroughs in the Field of Cryptography**
 
 Cryptography is an art, not a science. And the state of the art can advance over time Advances in code cracking, or technical advances such as the development of quantum computers, could present risks to cryptocurrencies and the Ethereum Platform, which could result in the theft or loss of ETH. To the extent possible, EthSuisse intends to update the protocol underlying the Ethereum Platform to account for any advances in cryptography and to incorporate additional security measures, but cannot it cannot predict the future of cryptography or the success of any future security updates..
 
-19.13 Risk of Ether Mining Attacks
+**19.13 Risk of Ether Mining Attacks**
 
 As with other cryptocurrencies, the blockchain used for the Ethereum Platform is susceptible to mining attacks, including but not limited to double-spend attacks, majority mining power attacks, “selfish-mining” attacks, and race condition attacks. Any successful attacks present a risk to the Ethereum Platform, expected proper execution and sequencing of ETH transactions, and expected proper execution and sequencing of contract computations. EthSuisse intends to limit the risk of mining attacks by creating a blockchain proof-of-work security algorithm using a unique implementation of a GHOST-like protocol and possibly an implementation of hybrid proof-of-stake that could reduce the risk of mining attacks.
 
 Despite the efforts of the Ethereum Team, known or novel mining attacks may be successful.
 
-19.14 Risk of Rapid Adoption and Increased Demand for ETH
+**19.14 Risk of Rapid Adoption and Increased Demand for ETH**
 
 If the Ethereum Platform is rapidly adopted, the demand for ETH could rise dramatically and at a pace that exceeds the rate with which ETH miners can create new ETH tokens. Under such a scenario, the entire Ethereum Platform could become destabilized, due to the increased cost of running distributed applications. In turn, this could dampen interest in the Ethereum Project and ETH.
 
 Instability in the demand for ETH leading to oscillations and instability in the price of ETH as denominated in currencies that Ethereum-based businesses use to pay operating costs could result in Ethereum-based businesses being unable to continue to operate economically. This would represent losses to businesses or worst case, cause business to cease operations.
 
-19.15 Risk of Rapid Adoption and Insufficiency of Computational Application Processing Power on the Ethereum Network
+**19.15 Risk of Rapid Adoption and Insufficiency of Computational Application Processing Power on the Ethereum Network**
 
 If the Ethereum Platform is rapidly adopted, the demand for transaction processing and distributed application computations could rise dramatically and at a pace that exceeds the rate with which ETH miners can bring online additional mining power. Under such a scenario, the entire Ethereum Platform could become destabilized, due to the increased cost of running distributed applications. In turn, this could dampen interest in the Ethereum Project and ETH.
 
 Insufficiency of computational resources and an associated rise in the price of ETH could result in businesses being unable to acquire scarce computational resources to run their distributed applications. This would represent revenue losses to businesses or worst case, cause businesses to cease operations because such operations have become uneconomical due to distortions in the crypto-economy.
 
-20 All Purchases of Ether Are Non-Refundable
+**20 All Purchases of Ether Are Non-Refundable**
 
 ALL PURCHASES OF ETH ARE FINAL. PURCHASES OF ETH ARE NON-REFUNDABLE. BY PURCHASING ETH, THE PURCHASER ACKNOWLEDGES THAT NEITHER ETHSUISSE NOR ANY OTHER OF THE ETHSUISSE PARTIES ARE REQUIRED TO PROVIDE A REFUND FOR ANY REASON, AND THAT THE PURCHASER WILL NOT RECEIVE MONEY OR OTHER COMPENSATION FOR ANY ETH THAT IS NOT USED AS CRYPTOFUEL OR REMAINS UNUSED.
 
-21 Taxation of Ether and Taxation Related to the Genesis Sale
+**21 Taxation of Ether and Taxation Related to the Genesis Sale**
 
 EthSuisse makes no representations concerning the tax implications of the sale of ETH or the possession or use of ETH. The Purchaser bears the sole responsibility to determine if the purchase of ETH with BTC or the potential appreciation or depreciation in the value of ETH over time has tax implications for the Purchaser in the Purchaser’s home jurisdiction.
 
 purchasing ETH, and to the extent permitted by law, the Purchaser agrees not hold any of the EthSuisse Parties liable for any tax liability associated with or arising from the purchase of ETH.
-22 Privacy
+
+**22 Privacy**
 
 Although EthSuisse requires that Purchasers provide an email address, EthSuisse will not publish any identifying information related to an ETH purchase, without the prior written consent of the Purchaser.
 
 Purchasers may be contacted by email by EthSuisse regarding a purchase. Such emails will be informational only. EthSuisse will not request any information from Purchasers in an email.
 
-23 Disclaimer of Warranties
+**23 Disclaimer of Warranties**
 
 THE PURCHASER EXPRESSLY AGREES THAT THE PURCHASER IS PURCHASING ETH AT THE PURCHASER’S SOLE RISK AND THAT ETH IS PROVIDED ON AN "AS IS" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE OR IMPLIED WARRANTIES, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE (EXCEPT ONLY TO THE EXTENT PROHIBITED UNDER APPLICABLE LAW WITH ANY LEGALLY REQUIRED WARRANTY PERIOD TO THE SHORTER OF THIRTY DAYS FROM FIRST USE OR THE MINIMUM PERIOD REQUIRED).
 
 WITHOUT LIMITING THE FOREGOING, NONE OF THE ETHSUISSE PARTIES WARRANT THAT THE PROCESS FOR PURCHASING ETH WILL BE UNINTERRUPTED OR ERROR-FREE.
 
-24 Limitations Waiver of Liability
+**24 Limitations Waiver of Liability**
 
 THE PURCHASER ACKNOWLEDGES AND AGREES THAT, TO THE FULLEST EXTENT PERMITTED BY ANY APPLICABLE LAW, THE DISCLAIMERS OF LIABILITY CONTAINED HEREIN APPLY TO ANY AND ALL DAMAGES OR INJURY WHATSOEVER CAUSED BY OR RELATED TO USE OF, OR INABILITY TO USE, ETH OR THE ETHEREUM PLATFORM UNDER ANY CAUSE OR ACTION WHATSOEVER OF ANY KIND IN ANY JURISDICTION, INCLUDING, WITHOUT LIMITATION, ACTIONS FOR BREACH OF WARRANTY, BREACH OF CONTRACT OR TORT (INCLUDING NEGLIGENCE) AND THAT NONE OF THE ETHSUISSE PARTIES SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING FOR LOSS OF PROFITS, GOODWILL OR DATA, IN ANY WAY WHATSOEVER ARISING OUT OF THE USE OF, OR INABILITY TO USE, OR PURCHASE OF, OR INABILITY TO PURCHASE, ETH.
 
@@ -371,11 +375,11 @@ TO THE EXTENT PERMISSIBLE UNDER APPLICABLE LAWS, UNDER NO CIRCUMSTANCES WILL ANY
 
 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR CERTAIN TYPES OF DAMAGES. THEREFORE, SOME OF THE ABOVE LIMITATIONS IN THIS SECTION AND ELSEWHERE IN THE TERMS MAY NOT APPLY TO A PURCHASER. IN PARTICULAR, NOTHING IN THESE TERMS SHALL AFFECT THE STATUTORY RIGHTS OF ANY PURCHASER OR EXCLUDE INJURY ARISING FROM ANY WILLFUL MISCONDUCT OR FRAUD OF ETHSUISSE.
 
-25 Jurisdiction of the Sale
+**25 Jurisdiction of the Sale**
 
 The legal entity conducting the Genesis Sale, Ethereum Switzerland GmbH, is organized in the Canton of Zug, under the laws of Switzerland.
 
-26 Dispute Resolution
+**26 Dispute Resolution**
 
 All disputes, controversies or claims arising out of, relating to, or in connection with the Terms, the breach thereof, or EthSuisse’s sale of ETH or use of the Ethereum Platform shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce by one or more arbitrators appointed in accordance with said Rules. All claims between the parties relating to these Terms that are capable of being resolved by arbitration, whether sounding in contract, tort, or otherwise, shall be submitted to ICC arbitration.
 
@@ -387,7 +391,7 @@ All arbitrators shall be and remain “independent” of the parties involved in
 
 In the final award, the tribunal shall fix the costs of the arbitration and decide which of the parties shall bear such costs in what proportion. Every award shall be binding on the parties. The parties undertake to carry out the award without delay and waive their right to any form of recourse against the award in so far as such waiver can validly be made.
 
-27 Force Majeure
+**27 Force Majeure**
 
 EthSuisse is not liable for failure to perform solely caused by:
 
@@ -400,17 +404,17 @@ acts by common carriers, emergency conditions (including weather conditions) inc
 any similar unforeseen event that renders performance commercially implausible.
 If an event of force majeure occurs, the party injured by the other’s inability to perform may elect to suspend the Agreement, in whole or part, for the duration of the force majeure circumstances. The party experiencing the force majeure circumstances shall cooperate with and assist the injured party in all reasonable ways to minimize the impact of force majeure on the injured party.
 
-28 Complete Agreement
+**28 Complete Agreement**
 
 These Terms along with the Ether Product Purchase Agreement, sets forth the entire understanding between each Purchaser and EthSuisse with respect to the the purchase and sale of ETH.
 
 For facts relating to the sale and purchase, the Purchaser agrees to rely only on these two documents in determining purchase decisions and understands that these documents govern the sale of ETH and supercede any public statements about the Genesis Sale made by third parties or by Ethereum Team or individuals associated with any EthSuisse Parties, past and present and during the Genesis Sale.
 
-29 Severability
+**29 Severability**
 
 The Purchaser and EthSuisse agree that if any portion of these Terms or the Ether Product Purchase Agreement is found illegal or unenforceable, in whole or in part, such provision shall, as to such jurisdiction, be ineffective solely to the extent of such determination of invalidity or unenforceability without affecting the validity or enforceability thereof in any other manner or jurisdiction and without affecting the remaining provisions of the Terms or Ether Product Purchase Agreement, which shall continue to be in full force and effect.
 
-30 No Waiver
+**30 No Waiver**
 
 The failure of EthSuisse to require or enforce strict performance by the Purchaser of any provision of these Terms or the Ether Product Purchase Agreement or EthSuisse’s failure to exercise any right under these agreements shall not be construed as a waiver or relinquishment of EthSuisse's right to assert or rely upon any such provision or right in that or any other instance.
 
@@ -418,7 +422,7 @@ The express waiver by EthSuisse of any provision, condition, or requirement of t
 
 Except as expressly and specifically set forth in this these Terms, no representations, statements, consents, waivers, or other acts or omissions by EthSuisse shall be deemed a modification of these Terms nor be legally binding, unless documented in physical writing, hand signed by the Purchaser and a duly appointed officer, employee, or agent of EthSuisse.
 
-31 Updates to the Terms and Conditions of the Ether Genesis Sale
+**31 Updates to the Terms and Conditions of the Ether Genesis Sale**
 
 EthSuisse reserves the right, at its sole discretion, to change, modify, add, or remove portions of the Terms and Ether Product Purchase Agreement, at any time during the sale by posting the amended Terms on the Ethereum website (https://www.ethereum.org). Any Purchaser will be deemed to have accepted such changes by purchasing ETH.
 
@@ -428,11 +432,11 @@ If at any point you do not agree to any portion of the then-current version of t
 
 To the extent the Terms conflict with the Ether Product Purchase Agreement, the Terms shall govern.
 
-32 Cooperation with Legal Authorities
+**32 Cooperation with Legal Authorities**
 
 EthSuisse will cooperate with all law enforcement inquiries, subpoenas, or requests provided they are fully supported and documented by the law in the relevant jurisdictions. In accord with one of the core principles of the Ethereum project — transparency — EthSuisse will endeavor to publish any legal inquiries upon receipt.
 
-33 Further Information
+**33 Further Information**
 
 For further information regarding the Ether sale, please contact helpdesk@ethereum.org.
 
