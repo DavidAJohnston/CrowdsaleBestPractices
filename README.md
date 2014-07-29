@@ -41,12 +41,12 @@ With this history in mind, we come to the present and the state of the art when 
  
 4. Many projects seem to be opting for accepting a single currency (bitcoin) during the period of their crowdsale in order to avoid issues with arbitrageurs pushing around the prices of the digital tokens involved in the crowdsale. Though it is worth adding that technical solutions for holding multi digital token crowdsales have been proposed for both the Master Protocol and Counterparty, however they have not yet been demonstrated in practice.
 
-Future Models for Crowdsales
+Price Determined by Volume Method in Crowdsales
 ======================
 
-Future crowdsales are adopting the state of the art characteristics of rewarding multiple demographics, a 30 day time window, capped numbers of tokens, and single currency pricing, but are also seeking to improve on this model.
+Some crowdsales are adopting the state of the art characteristics of rewarding multiple demographics, a 30 day time window, capped numbers of tokens, and single currency pricing, but are also seeking to improve on this model.
  
-Two near future examples of this are SWARM (June 17th) & API Network June 18th).
+Two examples of this are SWARM (June 17th) & API Network June 18th).
  
 http://www.swarmcorp.com/
  
