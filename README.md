@@ -1,11 +1,11 @@
 CrowdsaleBestPractices
 ======================
 
-Crowdsale Best Practices "Let The Market Decide"
+Crowdsale Best Practices
  
 TLDR:
 ======================
-Planned crowdsales are adopting the best practices of rewarding multiple demographics, a 30 day time window, capped numbers of tokens, and single currency pricing, but are also seeking to improve on this model by letting the market decide the price of their application’s digital tokens during a crowdsale using a sales volume based pricing model.
+Planned crowdsales are adopting the best practices of rewarding multiple demographics, a 30 day time window, predictable numbers of tokens, and single currency pricing, but are also seeking to improve on this model by letting the market decide the price of their application’s digital tokens during a crowdsale using a sales volume based pricing model.
  
 Brief History of Crowdsales
 ======================
