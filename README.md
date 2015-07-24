@@ -1,13 +1,23 @@
-CrowdsaleBestPractices
+SoftwareTokenSaleBestPractices
 ======================
 
-Crowdsale Best Practices
+Software Token Sale Best Practices
  
 TLDR:
 ======================
-Planned crowdsales are adopting the best practices of rewarding multiple demographics, a 30 day time window, predictable numbers of tokens, and single currency pricing, but are also seeking to improve on this model by letting the market decide the price of their application’s digital tokens during a crowdsale using a sales volume based pricing model.
+Software Token Sales also called "crowdsales" are adopting an increasing number of best practices, including:
+1. Having functioning (alpha stage) software before the beginning of the sale.
+2. Keeping the sale open for at least a 30 day window of time.
+3. Establishing multi signature security for funds collected.
+4. Quantifying the number of tokens to be generated in the future.
+5. Single currency pricing of the software token's sold (BTC pricing is recommended given its liquidity and irreversibility). 
+6. Detailing technical milestones to be achieved to unlock funds collected from the sale.
+7. Recruting expert technical evaluators to verify milestone completions.
+8. Hedging the funds collected during / after the software sale (removing volatility risk).
+9. Quantifying early labor and capital contribution in order to keep all token creation transparent.
+10. Rewarding multiple demographics (devs + purchasers + future miners)
  
-Brief History of Crowdsales
+Brief History of Software Sales
 ======================
 
 The market serves as the ultimate judge of value and price.
