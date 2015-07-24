@@ -1,7 +1,5 @@
-SoftwareTokenSaleBestPractices
-======================
-
 Software Token Sale Best Practices
+======================
  
 TLDR:
 ======================
