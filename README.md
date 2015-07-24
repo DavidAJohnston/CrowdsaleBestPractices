@@ -13,7 +13,7 @@ Software Token Sales also called "crowdsales" are adopting an increasing number 
 
 4. Quantifying the number of tokens to be generated in the future.
 
-5. Single currency pricing of the software token's sold (BTC pricing is recommended given its liquidity and irreversibility). 
+5. Single currency pricing of the software token's sold (BTC is recommended given its liquidity and irreversibility). 
 
 6. Detailing technical milestones to be achieved to unlock funds collected from the sale.
 
