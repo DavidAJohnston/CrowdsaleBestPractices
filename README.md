@@ -9,7 +9,7 @@ Software Token Sales also called "crowdsales" are adopting an increasing number 
 
 2. Keeping the sale open for at least a 30 day window of time.
 
-3. Establishing multi signature security for funds collected.
+3. Establishing multi-signature security for funds collected.
 
 4. Quantifying the number of tokens to be generated in the future.
 
@@ -17,7 +17,7 @@ Software Token Sales also called "crowdsales" are adopting an increasing number 
 
 6. Detailing technical milestones to be achieved to unlock funds collected from the sale.
 
-7. Recruting expert technical evaluators to verify milestone completions.
+7. Recruiting expert technical evaluators to verify milestone completions.
 
 8. Hedging the funds collected during / after the software sale (removing volatility risk).
 
@@ -34,9 +34,9 @@ With this in mind, let's consider the lessons we can take when it comes to inter
  
 Recently crowdsales of digital tokens that access software applications have become an increasingly popular option for entrepreneurs and developers to gain users and supporters for their projects.
  
-J.R. Willett held one of the first crowdsales in August 2013 when he was developing a protocol for smart property and a decentralized exchange built on top of the Bitcoin Protocol. This project would later be known as the, Metadata Archival by Standard Transaction Embedding Records Protocol or simply the MASTER Protocol AKA Mastercoin.
+J.R. Willett held one of the first crowdsales in August 2013 when he was developing a protocol for smart property and a decentralized exchange built on top of the Bitcoin Protocol. This project would later be known as the Metadata Archival by Standard Transaction Embedding Records Protocol or simply the MASTER Protocol AKA Mastercoin.
  
-J.R.’s crowdsale went on for a period of 30 days and raised more than 4,700 bitcoins (which were priced at the time around $100 each at the time). 91% of the new digital tokens (MSC) went to the crowdsale participants and 9% went to a core developer pool.
+J.R.’s crowdsale went on for a period of 30 days and raised more than 4,700 bitcoins (each worth aproximately $100 at the time of the crowdsale). 91% of the new digital tokens (MSC) went to the crowdsale participants and 9% went to a core developer pool.
  
 This first successful use of the crowdsale model on top of the Bitcoin Protocol attracted many others to emulate it including, Counterparty, ProtoShares, and NXT just to name a few.
 
@@ -51,7 +51,7 @@ The State of the Art
 
 With this history in mind, we come to the present and the state of the art when it comes to structuring a crowdsale of software for digital tokens. This state of the art can be described broadly as including:
  
-1. Rewarding multiple demographics, such as, core developers, third party developers, resource providers, crowdsale participants, and even users who are adding to the network effect of the application.
+1. Rewarding multiple demographics: core developers, third party developers, resource providers, crowdsale participants, and even users who are adding to the network effect of the application.
  
 2. Projects are focusing in on the 30-day time window as the best timeframe for holding a crowdsale (as was demonstrated before by Kickstarter).
 
@@ -74,30 +74,32 @@ Both projects are rewarding a variety of demographics, have 30-day time windows,
  
 Firstly, for example the API Network is offering API Coins (XAP) at a rate of 1.6 mBTC per XAP for the first 500 bitcoins worth of sales. The price increases to 2.13 mBTC per XAP during the sale of the next 1,000 bitcoins worth of XAP. The price then increases to 2.66 mBTC per XAP during the sale of the next 2,000 bitcoins worth of XAP. Lastly, the price increases to 3.12 mBTC per XAP during the sale of the last 4,692 bitcoins worth of XAP.
  
-Secondly, for example with SWARM if you participated in their early part of their crowdsale you would gain 5,250 SWARM coins per bitcoin you send in. This rate of SWARM declines the more bitcoin collected until four thousand BTC are collected and the price increases to 4,250 SWARM per bitcoin. This generation process could continue all the way until twenty one thousand bitcoin are collected and the generation rate falls to 3,750 SWARM per bitcoin.
+Secondly, for example with SWARM if you participated in their early part of their crowdsale you would gain 5,250 SWARM coins for each bitcoin you send to the designated crowdsale wallet. This rate of SWARM declines as more bitcoin is collected, until four thousand BTC have been collected, at which point the price decreases to 4,250 SWARM per bitcoin. This generation process could continue all the way until twenty one thousand bitcoin are collected and the generation rate falls to 3,750 SWARM per bitcoin.
  
-It is worth noting that neither the SWARM team or the API Network team expect to collect the maximum number of bitcoins by selling out all of their tokens (though it is possible if demand has been radically underestimated). Instead, both project have set a range of price points and are leaving it up to the market to decide the proper price of SWARM and API Coins (XAP). If the market decides these projects are highly valued, than the price of the coins will reach a higher level during the crowdsale. Conversely, if the market decides that these projects are not as highly valued, than the price of the coins will not rise as high during the crowdsale. Either way the pricing of these tokens is for the market to determine. 
+It is worth noting that neither the SWARM team or the API Network team expect to collect the maximum number of bitcoins by selling out all of their tokens (though it is possible if demand has been radically underestimated). Instead, both projects have set a range of price points and are leaving it up to the market to decide the proper price of SWARM and API Coins (XAP). If the market decides these projects are highly valued, than the price of the coins will reach a higher level during the crowdsale. Conversely, if the market decides that these projects are not as highly valued, than the price of the coins will not rise as high during the crowdsale. Either way the pricing of these tokens is for the market to determine. 
 
 Specific Best Practices and Disclosures
 ======================
 
 **Specific Best Practices**
 
-*1. Developing an in depth whitepaper and specification*
+*1. Developing an in-depth whitepaper and specification*
 
-The whitepaper since the time of Satoshi's bitcoin whitepaper in 2008 has been the way in which a new decentralized application is proposed to the community. Preparing this document to be as in depth, technical and peer reviewed as possible is a good way in which to the lay the ground work a new project. 
+The whitepaper is a crucial artefact in the launching of any decentralized app or crowdsale of digital tokens that access software applications.   Since the publishing of Satoshi Nakamura's bitcoin whitepaper in 2008, this has been the way in which a new decentralized application is proposed to the community. The white paper should be an in-depth, technical and peer reviewed document which lays the ground work for a new project with detailed specifications and information to communicate the core atrributes of the software. 
 
 *2. Setting Clear Expectations / Token Generation Guidelines*
 
-Bitcoin developers did an excellent job of enforcing and re-enforcing the exspectations of its users by stricly keeping to the 21,000,000 token limit and the expected rate of distribution. With any new open source project that has a token assoicated the developers will have to develop this same trust with the community. This should preferably be done through automating with cryptographic mechanisms the distribution of the tokens as much as is possible. 
+Bitcoin developers did an excellent job of enforcing and re-enforcing the expectations of its users by stricly keeping to the 21,000,000 token limit and the expected rate of distribution. This consistent enforcement of self-regulating best-practices is essential in building trust and goodwill amongst the network of users. Any new open source project that has a token-based pre-sale associated to it, will have to build this same trust with the community and stakeholders the software aims to serve. This should preferably be done by means of cryptographic mechanisms that are trustless and verifiable by way of a public distributed ledger, and should meet the minimum viable requirements of all respected blockchain protocols.
 
-Clear expectations should be articulated during the crowdsale by clearly listing common disclosures about, friendly information, the nature of a token being different than a stock or equity, no refunds, the mechanism for claiming their tokens, and the low liquidity most tokens experience during their early stages.
+Clear expectations and deliverables should be articulated during the crowdsale by clearly listing common disclosures about, critical financial information, the nature of a token being different than a stock or equity, no refunds, the mechanism for claiming their tokens, and the low liquidity most tokens experience during their early stages.
 
 *3. Developing a wiki where the community can make contributions*
 
-Developing a corpus of knowledge that the community can contribute to is critical for the long term development of any open source project and a decentralized application is no different. 
+Developing a corpus of knowledge that the community can contribute to is critical for the long term development of any open source project and a decentralized application is no different. The state of the art for successful decentralized and distributed applications will include effective communication amongst key stakeholders, of the general knowledge-base that is relavent to the various issues that may arise throughout the evolution of the project, in order to allow for an educated consensus building process which is based on logic and fact rather then speculation and opinion. 
+Several technological challenges have surfaced within the Bitcoin community in recent months, and some of these issues threaten to disrupt the status quo of the core Bitcoin developer community. The ways in which the developer community responds to these challenges can be examined and improved upon when compiling a general list of best practices for the blockchain and decentralized application community. 
+The core issues currently effecting the core Bitcoin developer community stem from the rules regarding maximum block size (amount of data avilable to store per transaction) and the overall Bitcoin blockchain's abilities to process transactions in realtime, at a pace that meets the demand of the userbase, without sacrificing any core features.
 
-*4. Terms and Conditions Document Outline the Details of the Sale That The User Must Agree To*
+*4. Terms and Conditions Document Outlines the Details of the Sale That The User Must Agree To*
 
 _________________________________
 **Example from Ethereum.org**
